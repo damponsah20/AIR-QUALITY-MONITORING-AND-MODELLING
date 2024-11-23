@@ -6,3 +6,7 @@ These scripts show how OPENAIR can be utilized to generate multiple plots using 
 
 
 scripts in Python are attached as files
+
+I have included powerpoints and pdf of presentations at the Summer school.
+
+
